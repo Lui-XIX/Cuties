@@ -2,7 +2,7 @@ body {
     background-color: #121212;
     font-family: 'Verdana', sans-serif;
     color: #e4b7a0;
-    background-image: url('bg.png'); /* Make sure this path is correct */
+    background-image: url('bg.png');
     background-size: cover;
     background-repeat: no-repeat;
     margin: 0;
